@@ -1,0 +1,10 @@
+p{
+    color: red;
+    font-size: 1em;
+    font-family: monospace;
+}
+
+p.endereco{
+    color: antiquewhite;
+    
+}
